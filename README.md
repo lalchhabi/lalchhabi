@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chhabi Lal Tamang</h1>
-<h3 align="center">A Machine Learning Enthusiast from Nepal</h3>
+<h3 align="center">A Data Enthusiast from Nepal</h3>
 <img align = 'right', alt = 'coding' width = "400" src = "https://www.springboard.com/blog/wp-content/uploads/2020/09/what-does-a-data-engineer-do.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalchhabi&label=Profile%20views&color=0e75b6&style=flat" alt="lalchhabi" /> </p>
 
