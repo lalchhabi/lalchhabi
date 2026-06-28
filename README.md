@@ -41,6 +41,5 @@ More articles coming soon.
 * LinkedIn: https://linkedin.com/in/chhabi-lal-tamang-6a6b71222
 * GitHub: https://github.com/lalchhabi
 * Medium: https://medium.com/@tmgchhabi555
-* Kaggle: https://kaggle.com/chhabilaltamang
 
 📧 **Email:** [tmgchhabi555@gmail.com](mailto:tmgchhabi555@gmail.com)
